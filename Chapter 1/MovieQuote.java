@@ -6,7 +6,7 @@ System.out.println("Johnrey Ambrad's Fav Movie Quote: ");
 
 System.out.println("I'll shall return.");
 
-Sistem, out.println("General Douglas MacArthur");
+System.out.println("By: General Douglas MacArthur");
 
 }
 
