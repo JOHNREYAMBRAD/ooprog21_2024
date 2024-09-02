@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class warmup_sleepin {
 
     public static boolean sleepIn(boolean weekday, boolean vacation) {
