@@ -5,9 +5,9 @@ public class CarlysCatering {
     public static void carlysEventPrice() {
         Scanner scanner = new Scanner(System.in);
         
-        
-        System.out.println("Carly's makes the food that makes it a party.");
-        
+        System.out.println("*************************************************");
+        System.out.println("**Carly's makes the food that makes it a party.**");
+        System.out.println("*************************************************");
         
         System.out.print("Enter the number of guests: ");
         int numberOfGuests = scanner.nextInt();
