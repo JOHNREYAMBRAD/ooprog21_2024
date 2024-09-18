@@ -5,9 +5,9 @@ public class SammysSeashoreSupplies {
     public static void sammysRentalPrice() {
         Scanner scanner = new Scanner(System.in);
         
-        
-        System.out.println("Sammy's makes it fun in the sun.");
-        
+        System.out.println("SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS");
+        System.out.println("S Sammy's makes it fun in the sun. S");
+        System.out.println("SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS");
         
         System.out.print("Enter the number of minutes rented: ");
         int minutesRented = scanner.nextInt();
